@@ -1,0 +1,20 @@
+{
+    "name": "loicjazon/sanitizers",
+    "type": "library",
+    "require-dev": {
+        "phpspec/phpspec": "^3.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Loïc Jazon",
+            "email": "contact@loicjazon.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jazlo\\": "src/Jazlo"
+        }
+    },
+    "require": {}
+}

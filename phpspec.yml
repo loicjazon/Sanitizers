@@ -1,0 +1,5 @@
+suites:
+   jazlo_suite:
+       namespace:  Jazlo
+       psr4_prefix:  Jazlo
+       src_path:  src/Jazlo
